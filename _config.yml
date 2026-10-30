@@ -1,0 +1,4 @@
+# GitHub Pages (legacy build). Keep the repo notes out of the published site.
+exclude:
+  - README.md
+  - SPEC.md
